@@ -40,7 +40,9 @@ walking to the door. In this case the poll frequency can be increased such that 
 is no preceived latency.
 
 ## Open questions
-- How does locking work without draining phone power while in the office?
+- How does locking work?
+  - Unlock could be based on approach to threashold distance not simply proximity.
+  - A second BLE device could be placed in the office to know on what side of the door phone is
 - How to prevent energy drain when the door remains in close proximity after opening (i.e. small locked office)
 
 ## Possible features
