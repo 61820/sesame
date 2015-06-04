@@ -1,4 +1,4 @@
-# seasme
+# sesame
 DIY door opener
 
 ## Possible Parts
