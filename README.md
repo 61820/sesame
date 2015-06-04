@@ -1,6 +1,11 @@
 # sesame
 DIY door opener
 
+## Motivation
+The door to our new office has a traditional key instead of keycard. The door to the building is a keycard. Remembering 
+to keep a key and using the key is bothersome. Facilities reports that a keycard opener is $3000. Motivated by 
+[another door opener](http://www.instructables.com/id/Secret-Knock-Detecting-Door-Lock/) and experience using BLE to communicate with [anki](https://github.com/anki/drive-sdk) cars, lets build our own.
+
 ## Possible Parts
 - http://www.adafruit.com/products/1697
 - http://www.adafruit.com/products/2487
