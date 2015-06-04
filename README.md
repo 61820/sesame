@@ -25,7 +25,7 @@ A button on the device and the app must be open (while open app is activley scan
 Public key of app is recorded by opener.
 
 ### Opening
-The door is opened when the phone is close to the door. Similar to a badge, but it would be more useable if the phone could say in your pocket or bag.
+The door is opened when the phone is close to the door. Similar to a badge, but it would be more useable if the phone could say in your pocket or bag. Public keys are used by the opener to authenticate the phone.
 
 When the app is open it is actively scanning for openers.
 
