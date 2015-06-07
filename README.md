@@ -7,6 +7,7 @@ to keep a key and using the key is bothersome. Facilities reports that a keycard
 [another door opener](http://www.instructables.com/id/Secret-Knock-Detecting-Door-Lock/) and experience using BLE to communicate with [anki](https://github.com/anki/drive-sdk) cars, lets build our own.
 
 ## Possible Parts
+- http://redbearlab.com/blenano/ (ordered 6 June 2015)
 - http://www.adafruit.com/products/1697
 - http://www.adafruit.com/products/2487
 
@@ -25,6 +26,8 @@ A button on the device and the app must be open (while open app is activley scan
 Public key of app is recorded by opener.
 
 ### Opening
+Initial simplification - require phone app to be open and scan continually while app is open.
+
 The door is opened when the phone is close to the door. Similar to a badge, but it would be more useable if the phone could say in your pocket or bag. Public keys are used by the opener to authenticate the phone.
 
 When the app is open it is actively scanning for openers.
